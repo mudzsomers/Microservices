@@ -11,7 +11,7 @@ If we are to think of  it like a restaurant: instead of one person cooking, clea
 
 ---
 
-## 2. The Netflix Case Study: Setting the Standard
+## 2. The Netflix Case Study
 Netflix is the most famous example of microservices success. They didn't switch just because it was "cool" but because they had to. In 2008, a major database failure shut down their DVD shipping for three days. They realized they couldn't afford a "single point of failure" anymore.
 
 ### How they actually use it:
