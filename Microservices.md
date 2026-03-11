@@ -1,4 +1,4 @@
-# Rese The Microservices Shift at Netflix and the "Monolith U-Turn"
+# The Microservices Shift at Netflix and the "Monolith U-Turn"
 
 ## 1. What are Microservices? (A Brief Overview)
 In simple terms, a **microservice** is a small, standalone program designed to do one specific job really well. Instead of building one giant, "all-in-one" application (a Monolith), developers break the system into loosely coupled services that talk to each other through **APIs**.
