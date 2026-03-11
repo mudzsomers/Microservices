@@ -26,7 +26,7 @@ If the "Recommendation Service" crashes, Netflix doesn't stop working. You just 
 
 ---
 
-## 3. The Great "U-Turn": Why Companies are Going Back
+## 3.  Why Companies are Going Back to Monolith
 Lately, the industry has seen a "reverse trend." High-profile companies are moving back to Monoliths (or "Modular Monoliths") because they realized microservices can be overkill.
 
 ### Amazon Prime Video
